@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4; /* Default background color */
+    color: #333;
+}
+
+/* Add a background color to the body */
+body {
+    background-color: #F5F5DC; /* New background color */
+}
+
+/* Heading styles */
+h2 {
+    font-size: 24px;
+    color: #009688;
+    margin-top: 20px;
+}
+
+/* Strong emphasis */
+strong {
+    color: #00695c;
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 15px;
+}
+
+/* Unordered list styles */
+ul {
+    margin-bottom: 15px;
+}
+
+/* List item styles */
+li {
+    list-style: square;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
